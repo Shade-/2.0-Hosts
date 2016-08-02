@@ -37,6 +37,11 @@
 - [Google App Engine](https://cloud.google.com/appengine/)
   * **php55**: 23
 
+- [HawkHost](https://www.hawkhost.com/shared-web-hosting)
+  * **php55**: Yes
+  * **php56**: Yes
+  * **php7**: Yes
+
 - [Heart Internet](https://www.heartinternet.uk/web-hosting)
   * **php55**: 9
 
