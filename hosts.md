@@ -11,6 +11,9 @@
   * **php55**: 34
   * **php56**: 20
 
+- [Altervista](http://it.altervista.org/)
+  * **php56**: Yes
+
 - [Aruba.it](http://hosting.aruba.it/)
   * **php55**: 28
  
